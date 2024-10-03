@@ -1,0 +1,29 @@
+body{
+    font-family: 'Quicksand',sans-serif !important;
+    font-weight: 300;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+textarea{
+    font-family: 'Quicksand',sans-serif !important;
+  
+}
+::-webkit-scrollbar{
+    width: 7px;
+}
+::-webkit-scrollbar-thumb{
+    background: #afb6d055;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover{
+    background: #afb6d0;
+    
+}
+.css-x60d32-MuiInputBase-root-MuiOutlinedInput-root{
+    background-color: #F4F4F4 !important;
+}

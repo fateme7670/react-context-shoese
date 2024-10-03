@@ -1,0 +1,5 @@
+export const SignIn='SignIn'
+export const SignUp='SignUp'
+export const Code='Code'
+export const ForgetPass='ForgetPass'
+export const ChangePass='ChangePass'
